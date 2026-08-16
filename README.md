@@ -8,7 +8,7 @@ An interactive, web-based analog clock face featuring an animated spider theme, 
 
 ```text
 ├── index.html    # Main HTML structure and clock container
-├── styles.css    # Styling, layout, fonts, and animation rules
+├── style.css    # Styling, layout, fonts, and animation rules
 └── script.js     # Time calculations and clock hand rotation logic
 
 
