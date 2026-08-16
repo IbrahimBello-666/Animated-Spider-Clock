@@ -11,9 +11,9 @@ An interactive, web-based analog clock face featuring an animated spider theme, 
 ├── style.css    # Styling, layout, fonts, and animation rules
 └── script.js     # Time calculations and clock hand rotation logic
 
----
+<br>
 
-## Interactive Spider Clock Face
+## *Interactive Spider Clock Face*
 An interactive, web-based analog clock face featuring an animated spider theme, gears, and custom typography. 
 Built using standard web technologies (HTML5, CSS3, and JavaScript).
 
